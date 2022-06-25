@@ -9,3 +9,7 @@ figure{
     background: linear-gradient(to right, red,purple,blue);
     height: auto;
 }
+img{
+    height: 50%;
+    width: 50%;
+}
