@@ -3,7 +3,9 @@ h1{
     background-color: red;
     text-align: center;
 }
-p{
+figure{
     text-align: left;
     padding: 4px;
+    background: linear-gradient(to right, red,purple,blue);
+    height: auto;
 }
